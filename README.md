@@ -3,6 +3,9 @@ Favorites github entries
 ## Android applications
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
 
+## Java
+- [jsoup: Java HTML parser](https://github.com/jhy/jsoup)
+
 ## Oracle database
 - [Alexandria PL/SQL Utility Library](https://github.com/mortenbra/alexandria-plsql-utils)
 - [Analytical SQL Examples](https://github.com/oracle/analytical-sql-examples)
