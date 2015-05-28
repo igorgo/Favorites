@@ -2,6 +2,7 @@
 Favorites github entries
 ## Android applications
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
+- [Crouton](https://github.com/keyboardsurfer/Crouton)
 
 ## Java
 - [jsoup: Java HTML parser](https://github.com/jhy/jsoup)
