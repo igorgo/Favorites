@@ -5,6 +5,7 @@ Favorites github entries
 - [Crouton](https://github.com/keyboardsurfer/Crouton)
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
 - [ActiveAndroid ORM](https://github.com/pardom/ActiveAndroid)
+
 ## Java
 - [jsoup: Java HTML parser](https://github.com/jhy/jsoup)
 
