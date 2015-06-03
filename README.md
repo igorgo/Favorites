@@ -16,3 +16,6 @@ Favorites github entries
 - [OraOpenSource Utils](https://github.com/OraOpenSource/oos-utils)
 - [PL/SQL logging and debugging framework](https://github.com/OraOpenSource/Logger)
 - [Реализация ДСТУ 28147:2009, 34.311-95 для Oracle PL/SQL](https://github.com/aver-ua/dstu-plsql)
+
+## JavaScript Frameworks
+- [Materialize, a CSS Framework](https://github.com/Dogfalo/materialize)
